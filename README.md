@@ -8,7 +8,6 @@ The application supports user registration, login, and role-based access control
 ![alt text](https://img.shields.io/badge/React-18.x-blue.svg)
 
 ![alt text](https://img.shields.io/badge/Vite-5.x-purple.svg)
-[Live Demo Link Here] <!-- Optional: Add a link to your deployed application -->
 📋 Table of Contents
 Key Features
 Technology Stack
@@ -147,7 +146,7 @@ Protected Routes (Frontend): The ProtectedRoute component in React checks if a v
 <!-- Add screenshots of your application to make the README more engaging. -->
 <!-- Example: -->
 Login Page	Register Page	User Dashboard
-![alt text](Screenshot 2025-06-10 224125)
+![alt text](Images/Screenshot2025-06-10224125.png)
 ![alt text](link-to-your-register-screenshot.png)
 ![alt text](link-to-your-dashboard-screenshot.png)
 🤝 Contributing
