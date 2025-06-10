@@ -69,7 +69,7 @@ MongoDB: A running instance of MongoDB (either local or a cloud service like Mon
 🚀 Getting Started
 Follow these instructions to get the project up and running on your local machine.
 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Arious18/Jwt-Auth-Spring-Boot-React-Vite.git
 cd your-repo-name
 Use code with caution.
 Bash
@@ -145,10 +145,13 @@ Protected Routes (Frontend): The ProtectedRoute component in React checks if a v
 🖼️ Screenshots
 <!-- Add screenshots of your application to make the README more engaging. -->
 <!-- Example: -->
+
 Login Page	Register Page	User Dashboard
-![alt text](Images/Screenshot2025-06-10224125.png)
-![alt text](link-to-your-register-screenshot.png)
-![alt text](link-to-your-dashboard-screenshot.png)
+![Login](Images/1.png)
+
+
+![Register](Images/2.png)
+
 🤝 Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 Fork the repository.
