@@ -147,10 +147,12 @@ Protected Routes (Frontend): The ProtectedRoute component in React checks if a v
 <!-- Example: -->
 
 Login Page	Register Page	User Dashboard
-![Login](Images/1.png)
 
 
-![Register](Images/2.png)
+![Login](Images/1)
+
+
+![Register](Images/2)
 
 🤝 Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
